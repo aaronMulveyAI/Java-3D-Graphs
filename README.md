@@ -3,6 +3,8 @@
 ## Overview
 This library provides a framework for creating, manipulating, and rendering 3D graphical objects in Java. It includes classes for defining points, polygons, and complex 3D shapes, and offers tools for managing and interacting with these objects in a graphical user interface (GUI).
 
+![](https://github.com/aaronMulveyAI/Java-3D-Graphs/blob/main/pentomino.gif)
+
 ## Features
 - **3D Object Creation**: Support for basic and complex 3D shapes including cubes, tetrahedrons, diamonds, Rubik's Cubes, and more.
 - **Rendering**: Uses Java's `Graphics` API to render 3D objects on a 2D canvas.
